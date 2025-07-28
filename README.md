@@ -18,7 +18,13 @@ Google Colab 노트북 : [https://github.com/EricRoh-kr/st9_youtubevid](https://
 **
 <img width="419" height="86" alt="스크린샷 2025-07-28 오후 11 54 41" src="https://github.com/user-attachments/assets/4fbe9aab-007a-4d1c-ab94-b0242e2081e7" />
 
-**3. 페이지 하단에 실행되는 유튜브 다운로더 사용
+**3. 해당 경고문에 대해 "무시하고 실행하기" 버튼 클릭.
+**해당 경고문은 '외부(GitHub)'에서 가져온 코드니 조심하라는 뜻입니다.
+근데 실행 코드는 악의적인 코드가 아니라 제가 짠 코드니 우리는 '무시하고 실행하기'하면 됩니다.
+
+<img width="597" height="220" alt="스크린샷 2025-07-29 오전 12 05 48" src="https://github.com/user-attachments/assets/5940b19f-3763-42ef-8afb-11f6b4c489aa" />
+
+**4. 페이지 하단에 실행되는 유튜브 다운로더 사용
 **
 <img width="709" height="416" alt="스크린샷 2025-07-28 오후 11 55 15" src="https://github.com/user-attachments/assets/fd7d4a2d-9b61-41d3-bb24-a4ffba0dce00" />
 
