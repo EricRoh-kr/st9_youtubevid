@@ -6,6 +6,6 @@
 
 📂 저장소 위치
 
-GitHub: https://github.com/EricRoh-kr/st9_youtubevid
+GitHub: [https://github.com/EricRoh-kr/st9_youtubevid](https://colab.research.google.com/github/EricRoh-kr/st9_youtubevid/blob/main/st9_youtubevid.ipynb)
 
 Colab 노트북: st9_youtubevid.ipynb (위 버튼 클릭)
