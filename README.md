@@ -14,7 +14,12 @@ Google Colab 노트북 : [https://github.com/EricRoh-kr/st9_youtubevid](https://
 
 사용 방법
 1. 위 버튼을 클릭하여 Google Colab 노트북으로 접속!
-2. <img width="419" height="86" alt="스크린샷 2025-07-28 오후 11 54 41" src="https://github.com/user-attachments/assets/4fbe9aab-007a-4d1c-ab94-b0242e2081e7" />
-좌측 상단의 "모두 실행" 클릭
-3. <img width="709" height="416" alt="스크린샷 2025-07-28 오후 11 55 15" src="https://github.com/user-attachments/assets/fd7d4a2d-9b61-41d3-bb24-a4ffba0dce00" />
-페이지 하단에 실행되는 유튜브 다운로더 사용
+   
+2. 좌측 상단의 "모두 실행" 클릭
+
+<img width="419" height="86" alt="스크린샷 2025-07-28 오후 11 54 41" src="https://github.com/user-attachments/assets/4fbe9aab-007a-4d1c-ab94-b0242e2081e7" />
+
+3. 페이지 하단에 실행되는 유튜브 다운로더 사용
+
+<img width="709" height="416" alt="스크린샷 2025-07-28 오후 11 55 15" src="https://github.com/user-attachments/assets/fd7d4a2d-9b61-41d3-bb24-a4ffba0dce00" />
+
