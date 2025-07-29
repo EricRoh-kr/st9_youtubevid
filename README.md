@@ -27,5 +27,7 @@ Google Colab 노트북 : [https://github.com/EricRoh-kr/st9_youtubevid](https://
 
 **4. 페이지 하단에 실행되는 유튜브 다운로더 사용**
 
+실행 시, 5~10초 정도 딜레이 시간이 발생할 수 있습니다.
+
 <img width="709" height="416" alt="스크린샷 2025-07-28 오후 11 55 15" src="https://github.com/user-attachments/assets/fd7d4a2d-9b61-41d3-bb24-a4ffba0dce00" />
 
